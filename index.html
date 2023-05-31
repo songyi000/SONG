@@ -2,133 +2,148 @@
 <html lang="ko">
 
 <head>
-    <!-- 메타태그 -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
     <meta name="author" content="iris24 운영소통플랫폼">
     <meta name="description" content="iris24 운영소통플랫폼">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="iris24 운영소통플랫폼">
     <meta property="og:title" content="iris24 운영소통플랫폼">
     <title>iris24 운영소통플랫폼</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/main.css">
 
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/style.css">
     <!-- google icons cdn -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <script src="./js/bootstrap.min.js"></script>
-    <script src="./js/owl.carousel.js"></script>
-    <script src="./js/jquery-2.2.4.min.js"></script>
-    <script src="./js/custom.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="./js/common.js"></script>
 </head>
-<!-- 스킵네비 -->
-<div id="skipNav">
-    <a href="#gnb">메뉴 바로가기</a>
-    <a href="#container">본문 바로가기</a>
-</div>
-<!-- 스킵네비끝 -->
 
-<!-- Topbar Start -->
-<div class="container-fluid bg-light-subtle">
-    <div class="container pe-0 d-none d-lg-block">
-        <div class="row gx-0">
-            <div class="col-md-6 text-center text-lg-start mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center">
-                    <small class="py-2">통합운영플랫폼에 오신것을 환영합니다.</small>
-                </div>
-            </div>
-            <div class="col-md-6 text-center text-lg-end">
-                <div class="position-relative d-inline-flex align-items-center">
-                    <div class="me-3 pe-3 py-2">
-                        <p class="m-0 small"><a href="#">로그인</a></p>
-                    </div>
-                    <div class="py-2">
-                        <p class="m-0 small"></i><a href="#">회원가입</a></p>
-                    </div>
-                </div>
+<div id="wrap">
+    <!-- skip -->
+    <div id="skipNav">
+        <a href="#gnb">메뉴 바로가기</a>
+        <a href="#container">본문 바로가기</a>
+    </div>
+    <!-- skip end -->
+
+    <!-- Header start -->
+    <div class="header_wrap">
+        <div class="topwrap">
+            <div class="util">
+                <p>통합연구관리시스템 운영 소통 플랫폼에 오신걸 환영합니다</p>
+                <ul>
+                    <li><a href="">한국산업기술관리평가원 홍길동님</a></li>
+                    <li><a href="">로그아웃</a></li>
+                    <li><a href="">ADMIN</a></li>
+                </ul>
             </div>
         </div>
-    </div>
-</div>
-<!-- Topbar End -->
-
-
-<!-- Navbar Start -->
-<div class="container-fluid bg-light">
-    <div class="container">
-        <nav class="navbar navbar-expand-lg">
-            <H1><a href="#">logo</a></H1>
-            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg"
-                aria-controls="navbarOffcanvasLg" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarOffcanvasLg"
-                aria-labelledby="navbarOffcanvasLgLabel">
-                <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">logo</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                </div>
-                <div class="offcanvas-body">
-                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">
-                                Link
-                            </a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">전산요청</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">대시보드</a></li>
-                                <li><a class="dropdown-item" href="#">요청등록</a></li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">전산요청</a>
-                            <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="#">대시보드</a></li>
-                                <li><a class="dropdown-item" href="#">요청등록</a></li>
-                                <li>
-                                    <hr class="dropdown-divider">
-                                </li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#" role="button" data-bs-toggle="dropdown"
-                                aria-expanded="false">빅데이터 분석</a>
-                        </li>
-                    </ul>
-
-                </div>
+        <div class="header_inner">
+            <h1><a href="#"><img src="./img/main/logo.png" </a></h1>
+            <div class="top_nav_wrap">
+                <ul class="gnb">
+                    <li class="menu"> <a href="#"><span>공지안내</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">공지사항</a></li>
+                            <li><a href="#">요청처리가이드</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu"> <a href="#"><span>전산요청</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">대시보드</a></li>
+                            <li><a href="#">요청등록</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">프로그램 개선</a></li>
+                                    <li><a href="#">정보수정</a></li>
+                                    <li><a href="#">민원응대</a></li>
+                                    <li><a href="#">기타</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">결과보기</a></li>
+                            <li><a href="#">통합이력보기</a></li>
+                        </ul>
+                    </li>
+                    <li class="menu"> <a href="#"><span>소통채널</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">기관지식공유</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">교육자료</a></li>
+                                    <li><a href="#">규정제도</a></li>
+                                    <li><a href="#">소통협업나눔</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">개선제안</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">시스템개선</a></li>
+                                    <li><a href="#">규정제도개선</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="menu"> <a href="#"><span>빅데이터분석</span></a></li>
+                </ul>
             </div>
-        </nav>
+
+            <div class="menu_bar">
+                <a href="#" class="material-icons">menu</a>
+            </div>
+
+            <div class="menu_open">
+                <ul>
+                    <li> <a href="#"><span>공지안내</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">공지사항</a></li>
+                            <li><a href="#">요청처리가이드</a></li>
+                        </ul>
+                    </li>
+                    <li> <a href="#"><span>전산요청</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">대시보드</a></li>
+                            <li><a href="#">요청등록</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">프로그램 개선</a></li>
+                                    <li><a href="#">정보수정</a></li>
+                                    <li><a href="#">민원응대</a></li>
+                                    <li><a href="#">기타</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">결과보기</a></li>
+                            <li><a href="#">통합이력보기</a></li>
+                        </ul>
+                    </li>
+                    <li> <a href="#"><span>소통채널</span></a>
+                        <ul class="menu_2depth">
+                            <li><a href="#">기관지식공유</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">교육자료</a></li>
+                                    <li><a href="#">규정제도</a></li>
+                                    <li><a href="#">소통협업나눔</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">개선제안</a>
+                                <ul class="menu_3depth">
+                                    <li><a href="#">시스템개선</a></li>
+                                    <li><a href="#">규정제도개선</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li> <a href="#"><span>빅데이터분석</span></a></li>
+                </ul>
+            </div>
+            <div class="hd_bg"></div>
+        </div>
+
+
+
+
     </div>
+    <h1 class="material-icons">home</h1>
 </div>
-<!-- Navbar End -->
-
-
-
-
-
-<!-- Footer End -->
 </body>
 
 </html>
