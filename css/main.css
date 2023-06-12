@@ -100,7 +100,7 @@ div.header div.header__toggle__close__button:hover {
 /* container */
 div.container { 
   padding-top: 200px; height: 660px; 
-  background: url(./img/iris24.png) no-repeat; 
+  background: url(../img/iris24.png) no-repeat; 
   background-position:center;
   background-size: contain;
   width: 80%;
