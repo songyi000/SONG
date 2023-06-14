@@ -351,7 +351,7 @@ div.container__notice .inner .share ul > li::before{
   div.footer__wrap .inner .footer_left img { height: 40px; display: inline-block; margin-left: 30px;}
   
   div.footer__wrap .inner .footer_right {  width: calc(100% / 2); display: flex; gap: 40px; align-items: center; justify-content: center;}
-  div.footer__wrap .inner .footer_right img { height: 40px;}
+  div.footer__wrap .inner .footer_right img { max-width: 100%; height: 5rem;}
 
 
 
@@ -389,6 +389,7 @@ div.container__notice .inner .share ul > li::before{
   div.footer__wrap .inner { flex-direction: column;}
   div.footer__wrap .inner .footer_left { width: 100%; text-align: center; padding: 20px;}
   div.footer__wrap .inner .footer_right { padding: 10px 0;}
+  div.footer__wrap .inner .footer_right img { height: 4rem;}
 }
 
 
@@ -422,5 +423,34 @@ div.container__notice .inner .share ul > li::before{
   div.footer__wrap .inner { flex-direction: column;}
   div.footer__wrap .inner .footer_left { width: 100%; text-align: center; padding: 20px;}
   div.footer__wrap .inner .footer_right { padding: 10px 0;}
-  div.footer__wrap .inner .footer_right img { height: 30px;}
+  div.footer__wrap .inner .footer_right img { height: 3rem;}
 } 
+
+/* 모바일 가로, 모바일 세로 (해상도 320px ~ 479px)*/
+@media all and (min-width:320px) and (max-width:479px) {
+  .inner { width: 95%;}
+  div.header div.header__toggle_menu div.inner { width: 90%;}
+  div.header div.header__toggle_menu ul.gnb > li a {font-size: 0.8rem; }
+  div.header div.header__toggle_menu ul.gnb > li > ul > li > a { font-size: 0.7rem; }
+  div.header div.header__toggle_menu ul.gnb > li > ul > li > ul > li a { font-size: 0.6rem;}
+  div.container .inner .sc_bar { margin-top:180px; width: 100%; flex-direction: column; height: 100px;}
+  div.container .inner .sc_bar .input { width: 90%; }
+  div.container__box { margin-top: -25px;}
+  div.container__issue .inner h2 { font-size: 1.0rem;}
+  div.container__issue .inner .issue { margin-top: 20px;}
+  div.container__issue .inner .issue h3 { font-size: 0.9rem;}
+
+  div.container__notice .inner .notice h2 {font-size: 1.1rem; }
+  div.container__notice .inner .notice ul > li a { font-size: 0.8rem;}
+  div.container__notice .inner .notice ul > li span { font-size: 0.7rem;}
+  div.container__notice .inner .notice ul > li::before{ display: none;}
+  div.container__notice .inner .share h2 {font-size: 1.1rem; }
+  div.container__notice .inner .share ul > li a { font-size: 0.8rem;}
+  div.container__notice .inner .share ul > li span { font-size: 0.7rem;}
+  div.container__notice .inner .share ul > li::before{ display: none;}
+  div.footer__wrap .inner .footer_left h3 { font-size: 0.9rem;}
+  div.footer__wrap .inner .footer_left p { font-size: 0.7rem; }
+  div.footer__wrap .inner .footer_left span { font-size : 0.8rem;}
+  div.footer__wrap .inner .footer_left img { height: 20px; margin-top: 20px; margin-left: 180px;}
+  div.footer__wrap .inner .footer_right img { height: 2.5rem;}
+}
