@@ -1,0 +1,289 @@
+%!Adobe-FontList 1.23
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-1Thin
+FamilyName:S-Core Dream
+StyleName:1 Thin
+FullName:S-Core Dream 1 Thin
+MenuName:에스코어 드림 1 Thin
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:1 Thin
+FullNameNative:에스코어 드림 1 Thin
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream1.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:736140
+FileModTime:1671017049
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 1 Thin
+NameArray:0,Win,1,S-Core Dream 1 Thin
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 1 Thin
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-2ExtraLight
+FamilyName:S-Core Dream
+StyleName:2 ExtraLight
+FullName:S-Core Dream 2 ExtraLight
+MenuName:에스코어 드림 2 ExtraLight
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:2 ExtraLight
+FullNameNative:에스코어 드림 2 ExtraLight
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:734208
+FileModTime:1671017049
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 2 ExtraLight
+NameArray:0,Win,1,S-Core Dream 2 ExtraLight
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 2 ExtraLight
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-3Light
+FamilyName:S-Core Dream
+StyleName:3 Light
+FullName:S-Core Dream 3 Light
+MenuName:에스코어 드림 3 Light
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:3 Light
+FullNameNative:에스코어 드림 3 Light
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream3.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:732548
+FileModTime:1671017049
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 3 Light
+NameArray:0,Win,1,S-Core Dream 3 Light
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 3 Light
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-4Regular
+FamilyName:S-Core Dream
+StyleName:4 Regular
+FullName:S-Core Dream 4 Regular
+MenuName:에스코어 드림 4 Regular
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:4 Regular
+FullNameNative:에스코어 드림 4 Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:729724
+FileModTime:1671017049
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 4 Regular
+NameArray:0,Win,1,S-Core Dream 4 Regular
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 4 Regular
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-5Medium
+FamilyName:S-Core Dream
+StyleName:5 Medium
+FullName:S-Core Dream 5 Medium
+MenuName:에스코어 드림 5 Medium
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:5 Medium
+FullNameNative:에스코어 드림 5 Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream5.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:732032
+FileModTime:1671017049
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 5 Medium
+NameArray:0,Win,1,S-Core Dream 5 Medium
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 5 Medium
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-6Bold
+FamilyName:S-Core Dream
+StyleName:6 Bold
+FullName:S-Core Dream 6 Bold
+MenuName:에스코어 드림 6 Bold
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:6 Bold
+FullNameNative:에스코어 드림 6 Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream6.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:743480
+FileModTime:1671017049
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 6 Bold
+NameArray:0,Win,1,S-Core Dream 6 Bold
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 6 Bold
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-7ExtraBold
+FamilyName:S-Core Dream
+StyleName:7 ExtraBold
+FullName:S-Core Dream 7 ExtraBold
+MenuName:에스코어 드림 7 ExtraBold
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:7 ExtraBold
+FullNameNative:에스코어 드림 7 ExtraBold
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream7.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:743744
+FileModTime:1671017049
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 7 ExtraBold
+NameArray:0,Win,1,S-Core Dream 7 ExtraBold
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 7 ExtraBold
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-8Heavy
+FamilyName:S-Core Dream
+StyleName:8 Heavy
+FullName:S-Core Dream 8 Heavy
+MenuName:에스코어 드림 8 Heavy
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:8 Heavy
+FullNameNative:에스코어 드림 8 Heavy
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream8.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:743788
+FileModTime:1671017049
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 8 Heavy
+NameArray:0,Win,1,S-Core Dream 8 Heavy
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 8 Heavy
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:S-CoreDream-9Black
+FamilyName:S-Core Dream
+StyleName:9 Black
+FullName:S-Core Dream 9 Black
+MenuName:에스코어 드림 9 Black
+StyleBits:0
+FamilyNameNative:에스코어 드림
+StyleNameNative:9 Black
+FullNameNative:에스코어 드림 9 Black
+WritingScript:Korean
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\SCDream9.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:742664
+FileModTime:1671017049
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,S-Core Dream 9 Black
+NameArray:0,Win,1,S-Core Dream 9 Black
+NameArray:0,Win,16,S-Core Dream
+NameArray:3,Win,1,에스코어 드림 9 Black
+NameArray:3,Win,16,에스코어 드림
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\꽃사슴\Desktop\세잔it\project lancome\Font\에스코어 드림_라이선스.png
+FileModTime:1671017049
+%EndFont
+
